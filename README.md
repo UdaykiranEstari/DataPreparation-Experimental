@@ -67,11 +67,7 @@ The code examples provided in this repository demonstrate how to perform the afo
 To run the code in this repository, the following Python libraries are required:
 
 - pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
-
+  
 Please refer to the `requirements.txt` file for detailed version information and installation instructions.
 
 ## Usage
@@ -84,7 +80,7 @@ Feel free to adapt and modify the code to suit your own datasets and requirement
 
 I'm grateful to Shashank Kalanithi for providing me with invaluable knowledge and guidance, which has greatly enhanced my skills and added significant value to my work.
 
-[![YouTube Video](https://img.youtube.com/vi/sSnbmbRmtSA/0.jpg)](https://www.youtube.com/watch?v=sSnbmbRmtSA&t=142s)
+link : https://www.youtube.com/watch?v=sSnbmbRmtSA&t=142s
 
 
 ## License
